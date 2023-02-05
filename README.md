@@ -33,7 +33,7 @@
 
 # 📖 Hello-React-Front-End <a name="about-project"></a>
 
-**Hello-React-Front-End** is a UI **React** app that consumes the **[Hello-Rails API APP](https://github.com/ZikaZaki/hello-rails-back-end/)**, in order to display a radom greeting message.
+**Hello-React-Front-End** is a UI **React** app that consumes the **[Hello-Rails API APP](https://github.com/ZikaZaki/hello-rails-back-end/)**, in order to display a random greeting message.
 
 ## 🛠 Built With <a name="built-with"></a>
 
