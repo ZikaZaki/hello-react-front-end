@@ -71,7 +71,7 @@
 
 ## 🚀 Hello Rails API App Link <a name="rails-api-app-link"></a>
 
-- [Hello-Rails-API-App-Link](https://gitub.com/ZikaZaki/hello-rails-back-end)
+- [Hello-Rails-API-App-Link](https://github.com/ZikaZaki/hello-rails-back-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
